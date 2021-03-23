@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: darkgray;
+}
+
+ .med{
+background-color:thistle;
+color:black;
+margin-left: 0%;
+margin-top: 0px;
+font-size: large;
+height: 80px;
+padding-top: 25px;
+padding-left: 20px;
+ }
+ button{
+  font-size: xx-large;
+  color: beige;
+ } 
